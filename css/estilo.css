@@ -1,0 +1,25 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: darkseagreen;
+  }
+
+  .titulo {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgba(35, 0, 133, 0.507);
+    color: rgb(226, 246, 147);
+  }
+  
+
+.conteudo {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    h4{
+      color:  rgba(35, 0, 133, 0.507);
+    }
+}
+
